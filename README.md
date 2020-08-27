@@ -1,4 +1,4 @@
-### 👋 Hi there! 👋
+<h3 align="center"> 👋 Hi there! 👋</h3>
 <!--
 **aminin/aminin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
