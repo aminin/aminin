@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h3 align="center">👋 Hi there 👋</h3>
 <!--
 **aminin/aminin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img align="center" style="width: 49px" alt="Anton Minin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aminin&show_icons=true&hide_border=false&hide=issues,contribs&count_private=true&theme=merko&include_all_commits=true&line_height=28" />
+  <img align="center" style="width: 49px" alt="Anton Minin's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminin&hide_border=true&layout=compact&theme=merko&card_width=486" />
+</p>
